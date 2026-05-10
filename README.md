@@ -78,3 +78,12 @@ See `QUICKSTART.md` for IDE setup and detailed instructions.
 | `homework-rpg-10` | Iterator + Mediator | The Adventurers' Guild |
 
 The series keeps mixing pattern pairs, but each assignment still asks you to implement the patterns independently and demonstrate them clearly in `Main.java`.
+
+### Iterator
+![Iterator](Diagrams/Iterator.png)
+
+### Mediator
+![Mediator](Diagrams/Mediator.png)
+
+## Ссылка на код
+https://github.com/zarina-kulm/homework-rpg-10
